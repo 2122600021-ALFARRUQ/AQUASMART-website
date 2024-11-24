@@ -1,8 +1,8 @@
 <?php
-$server = 'localhost';
-$username = 'root';
-$password = '';
-$database = 'login_register_db';
+$server = 'aquasmartdb.mysql.database.azure.com';
+$username = 'aquasmart';
+$password = 'pentol123.';
+$database = 'as_db';
 
 if (isset($_POST))
 
