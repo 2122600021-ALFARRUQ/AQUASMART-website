@@ -1,9 +1,9 @@
 <?php
 // Konfigurasi Database
-$server = 'aquasmartdb.mysql.database.azure.com';
+$server = 'as-db.mysql.database.azure.com';
 $username = 'zwfvqusiix';
 $password = 'xKnW$jS1dx8SKF8S';
-$database = 'as_db';
+$database = 'as-db';
 $ssl_cert = ''; // Ganti dengan path SSL certificate Anda
 
 // Membuat koneksi ke database MySQL Azure
