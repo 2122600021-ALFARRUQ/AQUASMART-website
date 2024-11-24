@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "aquasmart-database";
+$database = "as_db";
 
 $conn = new mysqli($host, $user, $password, $database);
 
