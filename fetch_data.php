@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("localhost", "root", "", "aquasmart-database");
+$con = mysqli_connect("localhost", "root", "", "as_db");
 
 $dataHistory = mysqli_query($con, "SELECT * FROM tandon ORDER BY id DESC LIMIT 10");
 $timeLabels = [];
